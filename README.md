@@ -1,6 +1,6 @@
 # PersonalSite Portfolio site
 
-##Overview
+## Overview
 
 This static HTML site demonstrates basic
 HTML and CSS skills, and presents my
